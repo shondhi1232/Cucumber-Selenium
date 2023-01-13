@@ -5,4 +5,4 @@
  - Java install must
  - InteliJ
 ## TestReport:
-![cucumber](https://user-images.githubusercontent.com/52061402/212402070-e6c26af5-3129-45b1-b527-a599a746cea6.JPG)
+![cucumber-wrong-input-resultReport](https://user-images.githubusercontent.com/52061402/212404710-6f849ee9-d008-4feb-8022-6fd192e9bf2a.JPG)
