@@ -1,7 +1,7 @@
 Feature: User login
-  Scenario Outline: User can login with valid credential
-    Given User visited the portal
-    When User inputs valid "<username>" and "<password>"
+  Scenario Outline: User can not login with invalid credential
+    Given User could not visited the portal
+    When User inputs invalid "<username>" and "<password>"
     Then User can see Error Massage
 
     Examples:
